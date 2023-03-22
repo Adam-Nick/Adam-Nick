@@ -11,7 +11,7 @@ password = os.getenv('PASSWORD')
 g = Github(username, password)
 
 # Repository name to update
-repo_name = "<username>/<repository>"
+repo_name = "<Adam-Nick>/<Adam-Nick>"
 
 # Create snake
 canvas = np.zeros((7, 52))
